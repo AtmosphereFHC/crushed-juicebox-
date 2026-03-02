@@ -1,6 +1,12 @@
+
 body{
+    img {
+    width: 200px;
+    length: 432px;
+}
     background:azure;
     color: orange;
     font-family: "Comic Sans MS";
+    image
 }
 
